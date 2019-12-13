@@ -8,17 +8,8 @@ The project is a single-page app which uses AJAX. The game logic is written in P
 ### Login Screen
 ![Login Screen](screenshots/login.png "Login Screen")
 
-### New Game
-![New Game](screenshots/new_game.png?raw=true "New Game")
-
-### Join
-![Join](screenshots/join.png?raw=true "Join")
-
 ### Start
 ![Start](screenshots/start.png?raw=true "Start")
-
-### Win Round
-![Win Round](screenshots/win_round.png?raw=true "Win Round")
 
 ### Win Game
 ![Win Game](screenshots/win_game.png?raw=true "Win Game")
