@@ -5,8 +5,5 @@ This app allows the user to enter either a 'city' or 'city, country code' to loo
 
 This app was created using [Microsoft's new Blazor technology](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) allowing front-end development using C#. The app also uses the [OpenWeather API](https://openweathermap.org/api) to retrieve weather data.
 
-### Main Page
-![Main Page](screenshots/main.png?raw=true "Main Page")
-
-### Results
-![Results using city name](screenshots/results.png?raw=true "Results using city name")
+### Screenshot
+![Weather Web App](screenshots/results.png?raw=true "Weather Web App")
