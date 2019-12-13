@@ -8,17 +8,8 @@ PHP is used as the backend language and communicates with a MySQL database. For 
 Login
 ![Login Screenshot](screenshots/login.png?raw=true "Login Screen")
 
-Sign-up
-![Login Screenshot](screenshots/signup.png?raw=true "Login Screen")
-
 Gameplay
 ![Login Screenshot](screenshots/gameplay.png?raw=true "Login Screen")
 
-Game end
-![Login Screenshot](screenshots/gameend.png?raw=true "Login Screen")
-
 Leaderboard
 ![Login Screenshot](screenshots/leaderboard.png?raw=true "Login Screen")
-
-Database Records (stores username, salt, and hased password)
-![Login Screenshot](screenshots/database.png?raw=true "Login Screen")
